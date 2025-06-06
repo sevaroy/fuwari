@@ -8,6 +8,8 @@ draft: false
 
 # 使用 Astro、Svelte 與 Tailwind 打造現代化部落格範例
 
+![ChatGPT 範例圖](../../assets/images/ChatGPT%20Image%202025%E5%B9%B46%E6%9C%887%E6%97%A5%20%E4%B8%8A%E5%8D%8805_51_37.png)
+
 在這篇文章中，我將介紹一個結合 Astro、Svelte 與 Tailwind CSS 的現代化靜態網站專案，並說明其架構、功能亮點與開發體驗。這個專案非常適合作為部落格、個人網站或技術文件站的起點。
 
 ---
