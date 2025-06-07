@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/sevaroy/fuwari).
+This is the demo site for [Fuwari](https://github.com/akiraxtwo).
 
-::github{repo="sevaroy/fuwari"}
+::github{repo="akiraxtwo/fuwari"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
